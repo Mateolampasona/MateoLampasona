@@ -1,66 +1,127 @@
-# 💻 ¡Hola! Soy Mateo Lampasona 👋
+# 💻 ¡Hola! Soy Mateo Lampasona 👋  
+### Full Stack Developer · Backend Specialist · Tech Consultant · Founder of Boostly  
 
-## 🙋‍♂️ ¿Quién soy?
-Soy **Programador Full Stack** con una sólida orientación al desarrollo **Backend**. Me especializo en crear **aplicaciones web funcionales, escalables y bien estructuradas**. Trabajo con tecnologías modernas y buenas prácticas para ofrecer **soluciones robustas y eficientes**.
+---
 
-## 👨‍💻 ¿Qué hago?
-Actualmente, soy un desarrollador en constante evolución. Me enfoco en **optimizar procesos y diseñar sistemas backend** que respondan a necesidades reales del negocio.
+## 🙋‍♂️ Sobre mí
+Soy **Desarrollador Full Stack especializado en Backend**, enfocado en construir sistemas **escalables, robustos y orientados al negocio**.  
+Me apasiona transformar procesos reales en plataformas claras, eficientes y modernas.
 
-## 🛠️ Tecnologías y herramientas
+No solo programo: **analizo, diseño, estructuro y acompaño** todo el ciclo de desarrollo, desde la idea hasta su implementación en producción.
 
-**Lenguajes:**  
-JavaScript, TypeScript, C#, HTML, CSS, SQL
+Hoy lidero **Boostly**, mi consultora IT, donde ayudamos a PyMEs y empresas de servicios a digitalizarse y escalar con tecnología.
 
-**Frameworks y Librerías:**  
-Node.js, Express, jQuery, React
+---
 
-**Bases de Datos:**  
-PostgreSQL, MongoDB
+## 🚀 Mi proyecto insignia: GESDEV
+**GESDEV es un ERP completo que desarrollé desde cero**, actualmente utilizado por **más de 400 empleados** en empresas de servicios y entornos mineros.
 
-**Herramientas:**  
-Git, GitHub, Docker, Visual Studio Code, Visual Studio, SQL Shell, Insomnia
+Incluye módulos como:
 
-**Metodologías:**  
-Enfoque ágil y trabajo colaborativo
+- Logística y optimización de rutas  
+- Tareas operativas y planificación  
+- Compras y proveedores  
+- Stock y multidepósito  
+- Mantenimiento de vehículos y herramientas  
+- Recursos Humanos, licencias, pagos  
+- Tickets e incidencias  
+- Auditoría, notificaciones, BI  
+- Objetivos operativos y trazabilidad para minería
 
-## 🚀 Proyectos destacados
+Diseñado con arquitectura modular, seguridad avanzada y un enfoque profundamente orientado al proceso operativo de cada área.
+
+**Tecnologías:**  
+`NestJS · Next.js · TypeScript · PostgreSQL · Docker · Cloudflare`
+
+GESDEV es el proyecto que más marcó mi carrera:  
+me enseñó análisis, liderazgo técnico, consultoría y a entender qué necesita realmente una empresa para funcionar.
+
+---
+
+## ⚖️ Konektia CRM – Co-fundador & Líder Técnico
+CRM jurídico desarrollado junto a un equipo de cuatro personas.  
+Cuenta con:
+
+- Gestión completa de expedientes  
+- Alertas y vencimientos automáticos  
+- Tareas, etapas y flujos internos  
+- Suscripciones y pagos automáticos  
+- Panel administrativo  
+- Cuenta corriente  
+- Reportes y automatizaciones
+
+**Stack:**  
+`React · Node.js · PostgreSQL · Mercado Pago · Stripe`
+
+---
+
+## 🧠 Otras habilidades que aporto
+- Análisis y relevamiento de procesos empresariales  
+- Diseño de arquitectura escalable  
+- Consultoría tecnológica  
+- Liderazgo técnico y trabajo en equipo  
+- Construcción de software a medida  
+- Comunicación con clientes y capacitación  
+- Mentalidad de crecimiento y aprendizaje continuo  
+
+---
+
+## 🛠️ Tecnologías
+
+### **Lenguajes**  
+`TypeScript · JavaScript · SQL · HTML · CSS`
+
+### **Backend**  
+`NestJS · Node.js · Express · REST APIs · Prisma · Sequelize`
+
+### **Frontend**  
+`Next.js · React`
+
+### **Bases de datos**  
+`PostgreSQL · MongoDB`
+
+### **Infraestructura**  
+`Docker · PM2 · Nginx · Render · Cloudflare · Google Cloud`
+
+### **Herramientas**  
+`Git · GitHub · VSCode · Insomnia · Postman`
+
+---
+
+## 📚 Otros proyectos
+
+### 🔹 Sistema de gestión municipal  
+Gestión de tributos, reclamos, tasas y contribuyentes.  
+**Stack:** Node.js · Express · PostgreSQL
+
+### 🔹 E-commerce La Marina  
+Backend completo para tienda online con pagos, stock y usuarios.  
+**Stack:** Node.js · PostgreSQL
 
 ### 🔹 Eventop  
-Plataforma web para compra de entradas y gestión de eventos.  
-**Frontend:** React, HTML, CSS  
-**Backend:** Node.js, TypeScript, Express  
-**Base de datos:** PostgreSQL y Sequelize
+Plataforma para gestión de eventos y venta de entradas.  
+**Stack:** React · Node.js · PostgreSQL
+
+### 🔹 CarDev (en desarrollo)  
+Sistema para concesionarias: ventas, turnos, stock y CRM.  
+**Stack:** Node.js · PostgreSQL
 
 ---
 
-### 🔹 Sistema de gestión para empresa de baños químicos  
-Desarrollo backend completo para una empresa de alquiler de sanitarios portátiles.  
-Gestión de clientes, unidades, rutas y facturación  
-**Stack:** Node.js, Express, PostgreSQL
+## ✨ Un poco de mi filosofía
+Creo profundamente en esto:
+
+- **La programación es entender el negocio, no solo escribir código.**  
+- La IA es una aliada que potencia, no reemplaza.  
+- Las soluciones simples y claras son las que escalan.  
+- La mejor forma de aprender es construyendo.  
+- Los sistemas bien hechos mejoran la vida de las personas que los usan.
 
 ---
 
-### 🔹 E-commerce para La Marina  
-Fui responsable del diseño y desarrollo del backend para una tienda online de bazar y limpieza.  
-Integración con pasarela de pagos, stock y usuarios  
-**Stack:** Node.js, Express, PostgreSQL
+## 📩 ¿Hablamos?
+Siempre abierto a colaborar, construir y aprender.  
+Podés contactarme para consultoría, proyectos o networking.
 
 ---
 
-### 🔹 CarDev *(en desarrollo)*  
-Desarrollo backend y arquitectura para un sistema a medida para concesionarias de autos.  
-Turnos, stock, ventas, reservas y CRM  
-**Stack:** Node.js, Express, PostgreSQL
-
----
-
-### 🔹 Sistema de gestión municipal integral  
-Desarrollo backend de una solución para administración municipal.  
-Incluye gestión de contribuyentes, tasas, reclamos y más  
-**Stack:** Node.js, Express, PostgreSQL
-
----
-
-### 🔹 Demo educativa de SQL  
-Proyecto didáctico para prácticas con SQL en PostgreSQL  
-Consultas complejas, joins, subconsultas y funciones
